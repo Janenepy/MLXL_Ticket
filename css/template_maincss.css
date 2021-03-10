@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+a:hover, a:active, a:focus {
+  color: #03c5ec;
+  outline: none;
+  text-decoration: none;
+}
+
+.actions a {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin: 10px;
+}
+
+.btn-get-started {
+  background: #FF0066;
+  border: 2px solid #FF0066;
+  color: #fff;
+}
+
+.btn-get-started:hover {
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-services {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-services:hover {
+  background: #FF0066;
+  border: 2px solid #FF0066;
+  color: #fff;
+}
+body {
+  background: url(https://daks2k3a4ib2z.cloudfront.net/55e8561e77e11c5b2669313b/55e915813f65f3605faf200b_colortheory.jpg) top center;
+  background-size: cover;
+}
+
+/*สีปุ่มตอนยังไม่ชี้*/.btn-1{
+  color:#fff;/*สีตัวหนังสือในปุ่ม*/
+  background-color:#FF0066;/*สีพื้นหลังปุ่ม*/
+  border-color:#FF0066;/*สีเส้นขอบปุ่ม*/
+  border-width: 0.5px;/*ขนาดของเส้นขอบปุ่ม*/
+  }
+  /*สีปุ่มตอนชี้*/.btn-1:hover,.btn-1:focus,.btn-1.focus{
+  color:#fff;/*สีตัวหนังสือในปุ่ม*/
+  background:#FF0000;/*พื้นหลังปุ่ม*/
+  border-color:#FF0000;/*เส้นขอบปุ่ม*/
+  border-width: 0.5px;/*ขนาดของเส้นขอบปุ่ม*/
+  }
+#footer {
+  background: #111;
+  padding: 30px 0;
+  color: #fff;
+}
+
+#footer .copyright {
+  text-align: center;
+}
+
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #ccc;
+}

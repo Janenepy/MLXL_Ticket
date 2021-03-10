@@ -1,0 +1,96 @@
+
+	table {
+		width: 100%;
+		font-size: 20px;
+
+	}
+
+	
+	.Purchase{
+		text-align: center;
+		font-size: 60px;
+		color: black;
+
+		
+	}
+
+	img{
+		width: 175px;
+		height: 150px;
+
+}
+	th,tr{
+
+		text-align: center;
+		color: black;
+     
+	}
+.box{
+	position:relative;
+  	width:100%;
+  	height:100%;
+  	margin:50px auto;
+  	text-align:left;
+  	background:white;
+  	padding:40px;
+  	-webkit-border-radius:20px 0 0 0;
+    -moz-border-radius:20px 0 0 0;
+    border-radius:20px 0 0 0;
+  	-webkit-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+    -moz-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+    box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+    
+}
+
+.actions a {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin: 10px;
+}
+.btn-get-started:hover {
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+}
+.btn-get-started {
+  background: #03C4EB;
+  border: 2px solid #03C4EB;
+  color: #fff;
+}
+body {
+  font-size: 20px;
+  margin:0;
+  padding:0;
+  height:100%;
+}
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  background: #111;
+  padding: 30px 0;
+  color: #fff;
+  bottom:0;
+  width:100%;
+  position:fixed;
+}
+
+#footer .copyright {
+  text-align: center;
+  
+}
+
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #ccc;
+  
+}

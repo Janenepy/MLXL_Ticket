@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+background:#FFFFFF;
+color: black;
+
+ font-size: 20px;
+
+}
+
+table{
+  font-family: 'Noto Serif', serif;
+font-family: 'Taviraj', serif;
+}
+
+header{
+font-size: 30px;
+color: black;
+}
+.header{
+font-size: 30px;
+color: black;
+}
+main{
+text-align: left;
+font-size: 30px;
+}
+img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+button{
+text-align: center;
+}
+table, th, td {
+border: 0px solid black;
+border-collapse: collapse;
+}
+p{
+font-size: 20px;
+}
+.mlxl{
+font-size: 20px;
+}
+/* CSS Document */
+a:hover, a:active, a:focus {
+    color: #03c5ec;
+    outline: none;
+    text-decoration: none;
+  }
+  .actions a {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+  }
+  
+  .btn-get-started {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+  
+  .btn-get-started:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services {
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services:hover {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+#footer {
+    background: #111;
+    padding: 30px 0;
+    color: #fff;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+  }
+  
+  #footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #ccc;
+  }
+  

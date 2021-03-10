@@ -1,0 +1,127 @@
+body{
+	background-color: #A0E4FB;
+}
+p{
+	font-size: 20px;
+}
+
+
+input{
+	color: red;
+	text-align: center;
+	border: none;
+}
+th,td{
+	text-align: center;
+	border: 0px solid black;
+}
+.Info{
+	text-align: left;
+}
+table{
+	width: 100%;
+
+}
+.w3-button {
+	text-align: center;
+	width:300px;
+
+}
+.form-control{
+	text-align: center;
+	width:200px; 
+	height:50px;
+	border: 3px solid #eca099;
+	}
+
+.box{
+	position:relative;
+  width:100%;
+  height:100%;
+  margin:50px auto;
+  text-align:left;
+  background:white;
+  padding:40px;
+  -webkit-border-radius:20px 0 0 0;
+     -moz-border-radius:20px 0 0 0;
+          border-radius:20px 0 0 0;
+  -webkit-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+     -moz-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+          box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+  
+
+}
+.btn{
+	padding: 20px;
+	font-size: 30px;
+}
+a:hover, a:active, a:focus {
+    color: #03c5ec;
+    outline: none;
+    text-decoration: none;
+  }
+  .actions a {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+  }
+  
+  .btn-get-started {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+  
+  .btn-get-started:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services {
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services:hover {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+  button.btn-services {
+    border: 2px solid #FF0067;
+    color: #FF0067;
+  }
+  
+  button.btn-services2:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+    background: #111;
+    padding: 30px 0;
+    color: #fff;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+  }
+  
+  #footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #ccc;
+  }
+  

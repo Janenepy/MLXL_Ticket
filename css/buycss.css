@@ -1,0 +1,60 @@
+body{
+			background:#FFFFFF;
+			color: black;
+			 font-family: 'Athiti', sans-serif;
+		}
+		
+		header{
+			font-size: 80px;
+			color: black;
+			
+		}
+		
+		.header{
+			font-size: 50px;
+			color: black;
+		}
+		main{
+			text-align: left;
+			font-size: 50px;
+		}
+		img{
+ 			display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+		}
+		button{
+			text-align: center;
+		}
+		table, th, td {
+			border: 0px solid black;
+			border-collapse: collapse;
+		}
+		p{
+			font-size: 20px;
+		}	
+		.mlxl{
+			font-size: 50px;
+		}
+		.actions a {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 2px;
+  transition: 0.5s;
+  margin: 10px;
+}
+.btn-get-started:hover {
+  background: none;
+  border: 2px solid #fff;
+  color: #fff;
+}
+.btn-get-started {
+  background: #03C4EB;
+  border: 2px solid #03C4EB;
+  color: #fff;
+}

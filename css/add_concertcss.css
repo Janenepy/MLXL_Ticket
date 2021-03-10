@@ -1,0 +1,136 @@
+
+h1{
+    text-align: center;
+    font-family: Tahoma ;
+    color: white;
+}
+
+p{
+    font-size: 16px;
+    color: black;
+    text-align: right;
+}
+
+form-group{
+    font-size: 20px;
+}
+
+.button{
+    width:500px; 
+    height:50px;
+    background-color: white;
+  border: 2px solid #EFAD00;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
+.button:hover{
+    background-color:#ffaf08 ;
+    color: white; 
+}
+label{
+    font-size: 20px;
+}
+input{
+    size: 30px;
+}
+form {
+  position:relative;
+  width:100%;
+  height:100%;
+  margin:50px auto;
+  text-align:left;
+  background:#ecf0f1;
+  padding:40px;
+  -webkit-border-radius:20px 0 0 0;
+     -moz-border-radius:20px 0 0 0;
+          border-radius:20px 0 0 0;
+  -webkit-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+     -moz-box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+          box-shadow: 0px 2px 0px #ad392d, inset 0px 1px 0px white;
+  
+
+  
+}
+
+body {
+  background-color: #FA8072; /*From http://flatuicolors.com/ */
+  color: black;
+}
+a:hover, a:active, a:focus {
+    color: #03c5ec;
+    outline: none;
+    text-decoration: none;
+  }
+  .actions a {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 13px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    transition: 0.5s;
+    margin: 10px;
+  }
+  
+  .btn-get-started {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+  
+  .btn-get-started:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services {
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+  .btn-services:hover {
+    background: #FF0066;
+    border: 2px solid #FF0066;
+    color: #fff;
+  }
+  button.btn-services {
+    border: 2px solid #FF0067;
+    color: #FF0067;
+  }
+  
+  button.btn-services2:hover {
+    background: none;
+    border: 2px solid #fff;
+    color: #fff;
+  }
+  
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+    background: #111;
+    padding: 30px 0;
+    color: #fff;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+  }
+  
+  #footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #ccc;
+  }
+  

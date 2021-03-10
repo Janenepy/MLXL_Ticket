@@ -1,0 +1,9 @@
+@font-face{
+
+	font-family: 'Opun-Regular';
+	src:url(Opun-Regular.ttf);
+}
+
+*{
+	font-family: 'Opun-Regular';
+}
